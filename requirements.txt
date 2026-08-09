@@ -1,0 +1,6 @@
+fastapi>=0.100.0
+uvicorn>=0.22.0
+httpx>=0.24.0
+playwright>=1.40.0
+yt-dlp>=2024.03.01
+curl-cffi>=0.7.0
